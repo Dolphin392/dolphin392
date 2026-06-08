@@ -4,7 +4,7 @@ I'm a full-stack developer, entrepreneur, and founder of [VisionCam, Inc](https:
 
 ## Socials
 
-Discord: Dolphin_dev 
+Discord: [Dolphin_dev](https://discord.com/users/1044265263924793374)
 
 <br>
 
