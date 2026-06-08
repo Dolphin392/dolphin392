@@ -1,6 +1,6 @@
 ## About me
 
-I'm a full-stack developer, entrepreneur, and founder of VisionCam. I enjoy building websites, applications, Discord bots, innovative technology products, and alot more. My projects focus on software development, creative tools, streaming solutions, AI, and business technology.
+I'm a full-stack developer, entrepreneur, and founder of [![VisionCam, Inc](https://visioncam.xyz). I enjoy building websites, applications, Discord bots, innovative technology products, and alot more. My projects focus on software development, creative tools, streaming solutions, AI, and business technology.
 
 ## Socials
 
