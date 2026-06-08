@@ -6,11 +6,16 @@ I'm a full-stack developer, entrepreneur, and founder of [VisionCam, Inc](https:
 
 Discord: [Dolphin_dev](https://discord.com/users/1044265263924793374)
 
+Twitter: [DolphinlordYT](https://x.com/DolphinlordYT)
+
+
+
+
 <br>
 
 ## Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,nodejs,react,ai,swift,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,nodejs,react,ai,swift,git,mysql)](https://skillicons.dev)
 
 
 
