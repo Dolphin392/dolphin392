@@ -7,28 +7,27 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-adrian0.is--a.dev-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adrian0.is-a.dev/)
-[![VisionCam](https://img.shields.io/badge/VISIONCAM-visioncam.xyz-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://visioncam.xyz)
+[![VisionCam](https://img.shields.io/badge/VISIONCAM-visioncam.net-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://visioncam.net)
 [![Discord](https://img.shields.io/badge/DISCORD-dolphin__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1044265263924793374)
 
 <img src="divider.svg" width="100%" alt="" />
 
 </div>
 
-## ≈ Player Card
+## <img src="wave.svg" height="22" align="top" alt="" /> Player Card
 
 <div align="center"><img src="playercard.svg" width="100%" alt="Pixel player card: Dolphin, full-stack developer, speaks Polish and English" /></div>
 
-I'm a full-stack developer, entrepreneur, and founder of **[VisionCam, Inc](https://visioncam.xyz)**. I love building websites, apps, Discord bots, and innovative tech products. My work focuses on software development, creative tools, streaming solutions, AI, and business technology.
+I'm a full-stack developer, entrepreneur, and founder of **[VisionCam, Inc](https://visioncam.net)**. I love building websites, apps, Discord bots, and innovative tech products. My work focuses on software development, creative tools, streaming solutions, AI, and business technology.
 
 - **Current quest:** building **VisionCam**
-- **Diving into:** *(add something: Rust? Go? LLM agents?)*
+- **Diving into:** AI
 - **I speak:** Polish and English
 - **Open to:** collabs, cool projects, and good conversations
-- **Fun fact:** *(add one!)*
 
 <div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
-## ≈ Inventory
+## <img src="wave.svg" height="22" align="top" alt="" /> Inventory
 
 <div align="center">
 
@@ -44,17 +43,15 @@ I'm a full-stack developer, entrepreneur, and founder of **[VisionCam, Inc](http
 
 <div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
-## ≈ Featured Levels
+## <img src="wave.svg" height="22" align="top" alt="" /> Featured Levels
 
 | Level | Description | Tech |
 |---|---|---|
-| **[VisionCam](https://visioncam.xyz)** | Streaming and creative tools platform | `TypeScript` `React` `Node.js` |
-| **[Project Name](https://github.com/Dolphin392/repo)** | Short description of what it does | `JavaScript` `Discord.js` |
-| **[Project Name](https://github.com/Dolphin392/repo)** | Short description of what it does | `Python` `AI` |
+| **[VisionCam](https://visioncam.net)** | Streaming and creative tools platform | `TypeScript` `React` `Node.js` |
 
 <div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
-## ≈ Score Board
+## <img src="wave.svg" height="22" align="top" alt="" /> Score Board
 
 <div align="center">
 
