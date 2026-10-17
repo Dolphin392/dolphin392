@@ -7,7 +7,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-adrian0.is--a.dev-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adrian0.is-a.dev/)
-[![VisionCam](https://img.shields.io/badge/VISIONCAM-visioncam.xyz-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://visioncam.xyz)
+[![VisionCam](https://img.shields.io/badge/VISIONCAM-visioncam.xyz-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://visioncam.net)
 [![Discord](https://img.shields.io/badge/DISCORD-dolphin__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1044265263924793374)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dolphin392&color=0ea5e9&style=for-the-badge&label=PLAYER+VISITS)
